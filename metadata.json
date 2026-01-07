@@ -1,0 +1,7 @@
+{
+  "name": "2care.ai Digital Health Wallet",
+  "description": "A secure, personal health record system to manage medical reports, track vitals, and share records with doctors.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
